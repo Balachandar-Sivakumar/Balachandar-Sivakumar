@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balachandar-sivakumar" alt="balachandar-sivakumar" /></a> </p>
 
-- 🔭 I’m currently working on **White Collers**
+- 🔭 I’m currently working on **White Collers Project**
 
-- 🌱 I’m currently learning **python,mongodb,Tailwind,javascript**
+- 🌱 I’m currently learning **python,mongodb**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,PHP,Laravel**
+- 💬 Ask me about **HTML, CSS, JavaScript, PHP, Laravel, Python, Mongodb, Mysql**
 
 - 📫 How to reach me **balachandarsdckap@gmailcom**
 

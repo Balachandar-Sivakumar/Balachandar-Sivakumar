@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=balachandar-sivakumar" alt="balachandar-sivakumar" /></a> </p>
 
-- 🔭 I’m currently working on **CollabNest**
+- 🔭 I’m currently working on **White Collers**
 
-- 🌱 I’m currently learning **Laravel,PHP,Tailwind**
+- 🌱 I’m currently learning **python,mongodb,Tailwind,javascript**
 
 - 💬 Ask me about **HTML,CSS,JavaScript,PHP,Laravel**
 
